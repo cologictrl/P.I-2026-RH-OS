@@ -1,8 +1,8 @@
-# Documento de Visão do Produto 
+# Documento de Visão do Produto RH-OS
 
 ## 1. Visão Geral
 
- Aplicativo móvel desenvolvido em Flutter que utiliza Inteligência Artificial para automatizar a análise de currículos em processos seletivos.
+ RH-OS é um aplicativo móvel desenvolvido em Flutter que utiliza Inteligência Artificial para automatizar a análise de currículos em processos seletivos.
 
 ## 2. Problema Identificado
 
