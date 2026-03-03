@@ -1,4 +1,4 @@
-# P.I-2026-RH
+# P.I-2026-RH-OS
 # Aplicativo desenvolvido em Flutter com integração de IA para análise automatizada de currículos – Projeto Integrado 2026.
 
 ## Problema
